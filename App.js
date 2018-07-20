@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import dogs from './dogs.json'
-import Wrapper from './components/Wrapper'
-import Navbanner from './components/Navbanner'
-import Title from './components/Title'
-import DogCard from './components/DogCard'
+import dogs from './dogs.json';
+import Wrapper from './components/Wrapper';
+import Navbanner from './components/Navbanner';
+import Title from './components/Title';
+import Doggos from './components/Doggos';
 
 class App extends Component {
     state = {
